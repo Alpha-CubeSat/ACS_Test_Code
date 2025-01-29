@@ -310,4 +310,3 @@ loop print:
 79.94
 -32.62
 3.86
-Finished

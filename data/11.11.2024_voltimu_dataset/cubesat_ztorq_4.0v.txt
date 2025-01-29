@@ -1,4 +1,3 @@
-Beginning to iterate through
 loop print:
 -255
 -31.92
